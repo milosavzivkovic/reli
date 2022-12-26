@@ -157,7 +157,7 @@ session_start();
               <label class="form-label" for="form3Example4">Jačina motora(KS):</label>
                 <input type="number" id="form3Example4" class="form-control" name="motor" ><span class="greska"><?php echo $greskaMotor; ?></span>
             </div>
-              <input type="submit" name="submit" class="btn btn-primary btn-block mb-4" value="Registrujte se se">
+              <input type="submit" name="submit" class="btn btn-primary btn-block mb-4" value="Registrujte se">
 
 
             </form>
