@@ -104,7 +104,7 @@ session_start();
 
 
 
-    <h2 class="text-center reg">Registrujte se</h2>
+    <h2 class="text-center reg">REGISTRUJTE SE</h2>
   <div class="container px-4 py-5 px-md-5 text-center text-lg-start my-5">
     <div class="row gx-lg-5 align-items-center mb-5">
      <div class="col-lg-6 mb-5 mb-lg-0 position-relative">
